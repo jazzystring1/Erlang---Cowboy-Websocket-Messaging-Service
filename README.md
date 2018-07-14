@@ -10,4 +10,4 @@ An Erlang OTP application as a websocket using Cowboy for sending messages in fu
 ## Deploying to Heroku
 
 	You can refer to this tutorial. Special thanks to madcat78 for the Erlang Heroku webpack.
-	https://github.com/madcat78/cowboy-websocket-example
+	"https://github.com/madcat78"
