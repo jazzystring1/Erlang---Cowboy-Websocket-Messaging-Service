@@ -1,0 +1,6 @@
+-sname chat_app
+
+-setcookie chat_app_cookie
+
++K true
++A30

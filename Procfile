@@ -1,0 +1,1 @@
+web: _build/default/rel/chat_app/bin/chat_app foreground
